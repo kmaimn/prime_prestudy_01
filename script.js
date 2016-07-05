@@ -1,4 +1,3 @@
-function message(x){
- x = "Hey this works!";
+function message(){
 }
-  console.log(message);
+  console.log("Hey this works!");
